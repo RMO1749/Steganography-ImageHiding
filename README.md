@@ -137,7 +137,7 @@ if cover_image.shape != secret_image.shape:
    ```
 3. Activate the virtual environment:
    ```bash
-   .venv\Scripts\activate
+   . .venv\Scripts\activate OR . .venv/Scripts/activate
    ```
 4. Install the required dependencies:
    ```bash
